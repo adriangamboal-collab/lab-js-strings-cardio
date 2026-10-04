@@ -77,9 +77,8 @@ if (funnyHeadline2.includes(Word)){
         console.log("The funnyHeadline2 does not include the word 'oxygen'")
     }
 
-
 /*******************************************
-       Iteration 6 | String Length
+       Iteration 6 | String 
 *******************************************/
 // Using console.log() print to the console the length of the string and the last character in the string.
 
