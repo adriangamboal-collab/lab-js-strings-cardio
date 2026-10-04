@@ -78,18 +78,6 @@ if (funnyHeadline2.includes(Word)){
     }
 
 
-
-
-
-// Check the first headline
-// Your code here ...
-
-
-// Check the second headline
-// Your code here ...
-
-
-
 /*******************************************
        Iteration 6 | String Length
 *******************************************/
